@@ -5,7 +5,7 @@
 #define let auto const
 using namespace std;
 
-int pwmValue = 48;
+int pwmValue = 16;
 
 void setup() {
   MATRIX.begin();
